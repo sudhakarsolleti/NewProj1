@@ -11,6 +11,8 @@ public class Main {
         System.out.println(st1.ad1.city);
 
         System.out.println(st1.ad1.zip);
+
+        System.out.println(st1.ad1.street);
     }
 
 }
