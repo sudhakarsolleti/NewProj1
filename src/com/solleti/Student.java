@@ -12,4 +12,7 @@ public class Student {
     String ft = "Sudhakar";
 //hsfsfjsl
 //    hsfjkshksj
+
+  /*  sfsfffdfdf
+    fsfsf*/
 }
