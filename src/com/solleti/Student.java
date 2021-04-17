@@ -8,4 +8,8 @@ public class Student {
     Student(String name) {
         this.name = name;
     }
+
+    String ft = "Sudhakar";
+//hsfsfjsl
+//    hsfjkshksj
 }
